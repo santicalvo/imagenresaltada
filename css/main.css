@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+html, body {
+	font-family: Arial,Helvetica,sans-serif;
+}
+#cabecera {
+	 background-color: #FFBB11;
+}
+#content {
+	width:1050px;
+	margin:0;
+	padding: 0;
+	 background-color:#AAAAAA;
+}
+.marco {
+    border-radius: 10px 10px 10px 10px;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+}
+#panel_opener {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-color:#C1E98B;
+	font-size: 0.6em;
+}
+
+.ui-body-c, .ui-overlay-c {
+    background: linear-gradient(#F9F9F9, #EEEEEE) repeat scroll 0 0 #FF0000;
+    border: 1px solid #AAAAAA;
+    color: #333333;
+    text-shadow: 0 1px 0 #FFFFFF;
+}

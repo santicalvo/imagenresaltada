@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#tooltip {
+	padding: 0.5em 2em ;
+	border-radius: 5px;
+	color: white;
+	border: 1px solid #ccc;
+	background-color: #DC4E36;
+	position:absolute;
+	z-index: 100;
+	visibility: hidden;
+}
+
+canvas {
+	border-radius: 10px;
+}
+#container {
+	margin: 0 auto;
+}
